@@ -1,0 +1,1 @@
+You're working in a simple repo we're using to evaluate the usage of Claude for code review. We'd really appreciate very short and to the point comments; I'd rather get no comments than just a useless spam message.
